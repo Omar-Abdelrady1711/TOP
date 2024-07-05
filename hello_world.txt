@@ -1,1 +1,4 @@
 meow meow
+git add .
+
+git commit -m "A message describing what you have done to make this snapshot different"
